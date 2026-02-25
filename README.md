@@ -1,8 +1,8 @@
 # Lab Report: Cybersecurity Foundations Intensive
 ## Foundations_Lab_Final
 
-**Author:** [Kevon Priester]  
-**Institutional Affiliation:** [The Knowledge House]  
+**Author:** Kevon Priester  
+**Institutional Affiliation:** The Knowledge House 
 **Course:** Night 1: The Professional Identity & Workbench  
 **Instructor:** Night 1 Cyber Tutor  
 **Date:** February 23, 2026  
