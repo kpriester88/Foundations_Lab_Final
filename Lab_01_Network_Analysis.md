@@ -2,7 +2,7 @@
 ## Lab_01_Network_Analysis
 
 **Author:** Kevon Priester  
-**Institutional Affiliation:** The Knowledge House
+**Institutional Affiliation:**[The Knowledge House]
 **Course:** Night 2: The Digital Landscape & Threat Modeling  
 **Date:** February 24, 2026  
 
