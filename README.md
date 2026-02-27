@@ -59,3 +59,4 @@ This data breach can be seen as a governance drift, not a hack. The software wor
 ### VI. APA References
 TechCrunch. (2025, December 8). Petco's security lapse affected customers' SSNs, drivers' licenses and more. https://techcrunch.com/2025/12/08/petcos-security-lapse-affected-customers-ssns-drivers-licenses-and-more/
 
+McAfee. (2025, December 12). This week in scams: Petco breach warning, and watch out for fake federal calls. https://www.mcafee.com/blogs/security-news/petco-data-breach-was-i-compromised/
