@@ -8,6 +8,8 @@
 **Date:** February 23, 2026  
 
 ---
+## Hello World
+---
 
 ### Project Overview
 This repository serves as the primary technical workbench for the 2026 Cybersecurity Foundations course. It establishes a version-controlled environment for deploying network security configurations, cloud security assessments, and GRC compliance documentation.
@@ -20,7 +22,6 @@ The following hardware and network metrics define the local environment for this
 * **Graphics Memory (VRAM):** 12 GB Dedicated GDDR6
 * **Network Throughput:** 929.78 Mbps Download / 932.00 Mbps Upload (Symmetric Fiber-Optic Baseline)
 
-## Hello World
 
 
 # Lab Report: Network Analysis & Threat Modeling
@@ -42,11 +43,11 @@ My security philosophy centers on the principle of continuous governance. As see
 ### III. Technical Findings & Metrics
 
 * **Observation 1:** NIST CSF Standards - This falls under the Protect (Data Security) and Govern (Risk Management Strategy) functions. A robust "Govern" function would have had "Drift Detection" to catch that setting change.
-* 
+*  
 * **Observation 2:** CIS Control Mapping: - This maps directly to Control #3: Data Protection and Control #12: Network Infrastructure Management (specifically secure configuration).
 * 
 * ### IV. The CIA Triad Assessment
-* 
+
 * **Confidentiality:** [High Risk] An inadvertent software setting in a Petco application made highly sensitive personal identifiable information accessible via the Internet
 * **Integrity:** [Medium Risk] An open setting often implies that the 'write' permissions may have been poorly guarded as 'read' permissions. 
 * **Availability:** [Medium Risk] Because of the breach, Petco had to take down parts of its Vetco Clinics website offline to remediate the vulnerability.
