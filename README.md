@@ -34,11 +34,10 @@ The following hardware and network metrics define the local environment for this
 ---
 
 ### I. Executive Summary
-*Reviewing the Data Breach of Petco in December 2025
+Reviewing the Data Breach of Petco in December 2025
 
 ### II. Security Philosophy 
 My security philosophy centers on the principle of continuous governance. As seen in the December 2025 Petco data breach, the exposure of sensitive PII, including Social Security numbers and driver’s licenses, was not the result of a hack, but a 'misconfigured setting' (TechCrunch, 2025). This underscores that confidentiality is often lost through internal drift rather than external force. In my lab environment, I will implement CIS Control #12 by enforcing strict configuration baselines to ensure that no 'inadvertent setting' compromises the integrity of the environment."
-|
 
 ### III. Technical Findings & Metrics
 
@@ -47,7 +46,7 @@ My security philosophy centers on the principle of continuous governance. As see
 * **Observation 2:** CIS Control Mapping: - This maps directly to Control #3: Data Protection and Control #12: Network Infrastructure Management (specifically secure configuration).
 * 
 * ### IV. The CIA Triad Assessment
-*Identify which pillar was the focus of this lab:*
+* 
 * **Confidentiality:** [High Risk] An inadvertent software setting in a Petco application made highly sensitive personal identifiable information accessible via the Internet
 * **Integrity:** [Medium Risk] An open setting often implies that the 'write' permissions may have been poorly guarded as 'read' permissions. 
 * **Availability:** [Medium Risk] Because of the breach, Petco had to take down parts of its Vetco Clinics website offline to remediate the vulnerability.
