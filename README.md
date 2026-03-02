@@ -43,10 +43,10 @@ My security philosophy centers on the principle of continuous governance. As see
 ### III. Technical Findings & Metrics
 
 * **Observation 1:** NIST CSF Standards - This falls under the Protect (Data Security) and Govern (Risk Management Strategy) functions. A robust "Govern" function would have had "Drift Detection" to catch that setting change.
-*  
+  
 * **Observation 2:** CIS Control Mapping: - This maps directly to Control #3: Data Protection and Control #12: Network Infrastructure Management (specifically secure configuration).
-* 
-* ### IV. The CIA Triad Assessment
+  
+ ### IV. The CIA Triad Assessment
 
 * **Confidentiality:** [High Risk] An inadvertent software setting in a Petco application made highly sensitive personal identifiable information accessible via the Internet
 * **Integrity:** [Medium Risk] An open setting often implies that the 'write' permissions may have been poorly guarded as 'read' permissions. 
